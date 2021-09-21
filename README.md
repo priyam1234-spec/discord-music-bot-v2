@@ -1,2 +1,5 @@
-# discord-music-bot-v2
-Discord Music Bot v2 As You Guys Liked It!
+### Bot Made By Priyam ###
+  Note : Dont Delete Credits
+ Put Bot Token And Prefix In .env
+ 
+ ### Enjoy! ###
